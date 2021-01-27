@@ -3,6 +3,7 @@ description: Adding new job requirements
 template:
   repo: pegarecruiters-template
   name: pegarecruiters
+  description: PEGARECRUITER-JOBS
 before:
   - type: createIssue
     title: Welcome!
